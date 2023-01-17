@@ -50,6 +50,34 @@
             </div>
         </div>
     </nav>
+
+    <div class="contenido">
+        <section class="carrusel">
+            <div id="carouselExampleFade" class="carousel slide carousel-fade">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="https://mvt.com.mx/wp-content/uploads/2022/09/tramite-factura-uber-eats-2022.jpg" height="300px" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="https://tb-static.uber.com/prod/image-proc/processed_images/7b52b3cc7d55f801ebd00874b63531b0/16bb0a3ab8ea98cfe8906135767f7bf4.jpeg" height="300px" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOSbqY6nL_0xervPy_0KQLF1ekJQsg0glcA&usqp=CAU" height="300px" class="d-block w-100" alt="...">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </section>
+
+    </div>
+
 </body>
 
 </html>
